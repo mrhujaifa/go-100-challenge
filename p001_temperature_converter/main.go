@@ -53,13 +53,12 @@ Example Run 3:
 */
 
 func convertTemperature(value float64, unit string) {
-	// Rule 1: Validate negative Kelvin before processing
+
 	if unit == "K" && value < 0 {
 		fmt.Println("Kelvin cannot be negative")
 		return
 	}
 
-	// Rule 2: Convert to all target units based on the input unit
 	if unit == "C" {
 		// Calculate missing units: F and K
 		fahrenheit := (value * 9 / 5) + 32
