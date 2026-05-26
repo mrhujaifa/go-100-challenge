@@ -1,8 +1,9 @@
 # 🚀 100 Go (Golang) Programming Challenges & Backend Projects
 
-[![Go Version](https://shields.io)](https://go.dev)
-[![Production Ready](https://shields.io)](https://github.com)
-[![Open Source](https://shields.io)](https://github.com)
+<p align="">
+  <img src="https://blog.suprabha.me/static/1-635fc115b7d799983a3a02926db54bdf.gif" alt="Golang Challenges Demo" width="30%" height="30%">
+</p>
+
 
 Welcome to the **Ultimate Go 100 Challenge**! This repository is a curated roadmap of 100 structured production-grade programming challenges designed to master high-performance backend development using Golang. 
 
